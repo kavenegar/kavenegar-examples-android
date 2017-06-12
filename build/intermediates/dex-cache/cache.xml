@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64950d33e2d3095cc831b414063bea45524103d4">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_ff7f537b1d4a1518e3b6b9212306f69769079c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\0818fe7994080bccec51ca2b88fba0d1065d0d99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_254cd515aa8aba2bc02a090c68e24fe1c65668cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\AppData\Local\Android\sdk1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_6af070917776458b3849449c0ae7aa20b91b2132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.gradle\caches\modules-2\files-2.1\com.github.KaveNegar\kavenegar-android-sdk\v1.beta\e3fe8e40886a316f40ef33fbf56d7272c97ebf8\kavenegar-android-sdk-v1.beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0e3fe8e40886a316f40ef33fbf56d7272c97ebf8">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\kavenegar-android-sdk-v1.beta_4c9e654293bd803cf15c311184a68a4c1be4d9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_83a507933a5708bd8fa7083f9bb08c9a48db2f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\a34525fadbcec979677bf75be3533eaae058697b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_ed22032c7a423f6bc54ef10aecdeb671e1e12a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\35a3850d13d60ce7c804258a8ad8b98c2328bd4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_b88815dd39207a748e45ca7ff52297d75d03bc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\gson-2.8.0_30528b60125ba7bfb62830e98d1435fc5e91223c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\c3bd250a892c135fd70a882b9ce9ef1de6d64748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_e6a0053c7bb4b2497c3ecc27cd5ea986583c069a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\c8a6bb7616265b09a02488c4ea6ae4f9dcce7814\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_2216b9bcfc6b4e81f8ca35b29c06dec3fe397397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\397af7e0e631e345ec111f997ec8a6eab798840b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_51fcd6d1f1c2090e009b9638b16ac1ce02deae86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\b9468d725f7d4c2c214a94f6fd12bc99e9d99f12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_f14bd07ec8b2cdb41b0f573ba647f56b6a9979ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\8671ffb6e3c3e6dc6d85e29b44b3b0c2ec5e2e64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_c21bfd0b1e9faf951fdd3a3cf428538a4da53b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\commons-lang3-3.5_acba59fdc48ae14ac96dac7e33d1ddcea6313fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\62f0e32ec1be9a21539b95a0d31d0c8185da861f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_0c6eec9db2c242472bb1ad375a72fb8cadf521fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HVR\.android\build-cache\b7064f4bd7f1fab0dee03255856acf300ee31954\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\HVR\Desktop\kavenegar-android-sdk-sample\app\build\intermediates\pre-dexed\debug\classes_6ae5cb16cabd12388191490812964dc1c2f5dea3.jar" />
+    </item>
+
+</items>
