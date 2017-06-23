@@ -1,10 +1,13 @@
 package com.kavenegar.sdk.android.sample;
 
 import android.os.Bundle;
+//import android.support.multidex.MultiDex;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.example.meysam.mytest.R;
 import com.kavenegar.sdk.KavenegarApi;
@@ -12,12 +15,17 @@ import com.kavenegar.sdk.excepctions.ApiException;
 import com.kavenegar.sdk.excepctions.HttpException;
 import com.kavenegar.sdk.models.SendResult;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //MultiDex.install(this);
+
 
         final EditText etApiKey,etSender,etReceptor,etmessage;
 
@@ -30,12 +38,20 @@ public class MainActivity extends AppCompatActivity {
         btnSend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                final String[] msg = {"ارسال ناموفق"};
                 new Thread(new Runnable() {
                     @Override
                     public void run() {
                         try {
-                            KavenegarApi api = new KavenegarApi(etApiKey.getText().toString());
-                            SendResult Result = api.send(etSender.getText().toString(), etReceptor.getText().toString(), etmessage.getText().toString());
+                            KavenegarApi api = new KavenegarApi("796E5161645A7949536A4D7A565641414D636A4A4E513D3D");
+                            //SendResult Result = api.send("10004346","09353364377","test");
+                            String[] rec= new String[]{"09353364377"};
+                            List<SendResult> r1= api.CallMakeTTS(Arrays.asList(rec),"سلام");
+                            if(r1!=null){
+                                msg[0] ="ارسال موفق";
+                            }
+
+                            Log.d("kv",msg[0]);
                         } catch (HttpException ex) { // در صورتی که خروجی وب سرویس 200 نباشد این خطارخ می دهد.
                             System.out.print("HttpException  : " + ex.getMessage());
                         } catch (ApiException ex) { // در صورتی که خروجی وب سرویس 200 نباشد این خطارخ می دهد.
@@ -43,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
                         }
                     }
                 }).start();
+
+
             }
         });
 
