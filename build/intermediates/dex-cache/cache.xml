@@ -2,58 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.github.KaveNegar\kavenegar-android-sdk\-SNAPSHOT\cc00c25026633a35e3c1cc838a883f0acc0b4bbf\kavenegar-android-sdk--SNAPSHOT.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6da77b1545d14bf8868c2d663e86e51660ae6b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8724498937861f26fe1de23e35517e8d89f9a341">
+        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2924395f6d0fe1131c607ff1a4c01d242ae14caf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elecomp\.gradle\caches\modules-2\files-2.1\com.github.KaveNegar\kavenegar-android-sdk\-SNAPSHOT\cc00c25026633a35e3c1cc838a883f0acc0b4bbf\kavenegar-android-sdk--SNAPSHOT.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cc00c25026633a35e3c1cc838a883f0acc0b4bbf">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\kavenegar-android-sdk--SNAPSHOT_33c914240398cf604281286bda8ced4abdd12560.jar" />
+        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\kavenegar-android-sdk--SNAPSHOT_16e5d89b24f988050ff6eb205769712d8a00342a\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Asus\.android\build-cache\77530743c9891b1bf1d2873dd413c596688e45b7\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="E:\github\kavenegar android and java\kavenegar-examples-android\app\libs\java-sdk-1.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\classes_b3b4c44b1cc91b4c9bfdb87fe03604d2e7842b58.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.2\64950d33e2d3095cc831b414063bea45524103d4\httpclient-4.4.1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64950d33e2d3095cc831b414063bea45524103d4">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.2_ffbdfdfc1d10469fbc1a7bf2344e3549f722e3ae.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\commons-lang3-3.5_7721f9de1939ed5c2c8d0683d7db8a4750e40638.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f7d1e13b9d5216d6693df7104609397bfd8dc7c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="C:\Users\Asus\Desktop\kavenegar-examples-android\app\build\intermediates\pre-dexed\debug\gson-2.8.0_220d87716de60a066ed2faf4a2050fe5de646b3d.jar" />
+        sha1="d41ecb679b67b503c55a399435107bea5f91faa2">
+        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\java-sdk-1.0_36ac413f6c88f53d5d2b770891d70bd7ad8ff0ba\classes.dex" />
     </item>
 
 </items>
