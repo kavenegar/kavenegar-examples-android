@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Hadi\.gradle\caches\modules-2\files-2.1\com.github.KaveNegar\kavenegar-android-sdk\-SNAPSHOT\7c27e7ce0c34c18088b0c64be65f4997541526ee\kavenegar-android-sdk--SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c27e7ce0c34c18088b0c64be65f4997541526ee">
+        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\kavenegar-android-sdk--SNAPSHOT_bc71c9d30997b0859ddabee558cf0cd6ac343fac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -16,26 +25,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8724498937861f26fe1de23e35517e8d89f9a341">
+        sha1="a6fb44a5bb492c0af774c55155916a29dd97aa1a">
         <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2924395f6d0fe1131c607ff1a4c01d242ae14caf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Elecomp\.gradle\caches\modules-2\files-2.1\com.github.KaveNegar\kavenegar-android-sdk\-SNAPSHOT\cc00c25026633a35e3c1cc838a883f0acc0b4bbf\kavenegar-android-sdk--SNAPSHOT.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cc00c25026633a35e3c1cc838a883f0acc0b4bbf">
-        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\kavenegar-android-sdk--SNAPSHOT_16e5d89b24f988050ff6eb205769712d8a00342a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\github\kavenegar android and java\kavenegar-examples-android\app\libs\java-sdk-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d41ecb679b67b503c55a399435107bea5f91faa2">
-        <dex dex="E:\github\kavenegar android and java\kavenegar-examples-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\java-sdk-1.0_36ac413f6c88f53d5d2b770891d70bd7ad8ff0ba\classes.dex" />
     </item>
 
 </items>

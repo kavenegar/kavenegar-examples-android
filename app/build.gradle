@@ -32,9 +32,5 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
     //compile 'com.android.support:multidex:1.0.1'
     testCompile 'junit:junit:4.12'
-
-    //add this dependency
-    //compile 'com.github.KaveNegar:kavenegar-android-sdk:v1.beta'
-    //compile files('libs/java-sdk-1.0.jar')
     compile 'com.github.KaveNegar:kavenegar-android-sdk:-SNAPSHOT'
 }
