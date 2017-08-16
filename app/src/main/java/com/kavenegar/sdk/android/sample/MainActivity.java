@@ -43,9 +43,7 @@ public class MainActivity extends AppCompatActivity {
         btnSend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //MakeCallTTS();
-                VerifyLookUp();
-
+                MakeCallTTS();
             }
         });
 
@@ -53,37 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void VerifyLookUp(){
 
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                try {
-                    List<PairValue> keys=new ArrayList<PairValue>();
-                    keys.add(new PairValue("token10", "t10"));
-                    keys.add(new PairValue("token20", "t20"));
-                    SendResult Result=api.verifyLookup("PhoneNumber","0",null,"3","all",keys);
-
-
-//                    if(Result!=null){
-//                        msg[0] ="ارسال موفق";
-//                    }
-//                    else{
-//                        msg[0] ="ارسال ناموفق";
-//                    }
-
-                    //Toast.makeText(getApplication(),msg[0],Toast.LENGTH_LONG).show();
-
-//
-//                    Log.d("kv",msg[0]);
-                } catch (HttpException ex) { // در صورتی که خروجی وب سرویس 200 نباشد این خطارخ می دهد.
-                    System.out.print("HttpException  : " + ex.getMessage());
-                } catch (ApiException ex) { // در صورتی که خروجی وب سرویس 200 نباشد این خطارخ می دهد.
-                    System.out.print("ApiException : " + ex.getMessage());
-                }
-            }
-        }).start();
-    }
     public void MakeCallTTS(){
 
         new Thread(new Runnable() {
